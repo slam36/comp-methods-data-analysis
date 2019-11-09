@@ -2,7 +2,7 @@
 
 This repo contains my reports for the projects in a computational methods for data analysis course I took at the university of washington. This was by far my favorite class in my undergraduate career, and played a huge role in developing my curiosity for data science and machine learning.
 
-Note: All of the code is in the appendix of the reports. Unfortunately I do not have access to some of the data files anymore. 
+Note: All of the code is in the appendix of the reports. Unfortunately I do not have access to some of the data files anymore, but the reports provide adequate information on the datasets and results. 
 
 ### SVD_Image_Processing
 This report investigates the use of singular value decomposition for analyzing the cropped images of the Extended Yale Faces Database B. The goal was to explore the SVD algorithm and its use for image compression and reconstruction.
